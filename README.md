@@ -336,3 +336,5 @@ Access the app at: `http://localhost:3000`
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bhargavbhatt)
