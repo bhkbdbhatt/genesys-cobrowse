@@ -73,8 +73,8 @@ graph TB
     ExpressRoutes -->|Create/Store Session| SessionMgr
 
     ReactCustomer -->|POST /sessions/join| ExpressRoutes
-    AgentWS <-->|WebSockets (/ws/cobrowse)| WSServer
-    CustomerWS <-->|WebSockets (/ws/cobrowse)| WSServer
+    AgentWS <-->|"WebSockets (/ws/cobrowse)"| WSServer
+    CustomerWS <-->|"WebSockets (/ws/cobrowse)"| WSServer
     WSServer <-->|Sync State & Annotations| SessionMgr
 
     classDef genesys fill:#ffefeb,stroke:#ff4f00,stroke-width:2px,color:#1e293b;
